@@ -1,0 +1,8 @@
+name: ItemRename
+authors:
+  - benjamin.
+  - BedrockPlugins
+version: 1.0
+api: 3.2.0
+main: BedrockPlugins\ItemRename\ItemRename
+description: Allows you to rename an item
