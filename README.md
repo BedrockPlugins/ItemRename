@@ -1,6 +1,6 @@
 ## ItemRename
 
-BedrockCoins is a simple plugin that allows you to change the name of an item
+ItemRename is a simple plugin that allows you to change the name of an item
 
 ## Configuration
 
